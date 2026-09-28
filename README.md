@@ -13,3 +13,6 @@ The app tells you when a new version is out (Settings → App updates). Close Co
 Settings and saved builds live in `%LOCALAPPDATA%BunsliCodex`, wherever the app itself is installed. All app settings are also in one readable file there, `settings.json`: edit it while Codex is closed.
 
 Game databases do not update on their own until you turn that on under Settings → Database.
+
+### License
+Codex is proprietary; all rights reserved. You may download and run it for personal use. Redistribution, reverse engineering, and any use for AI or machine-learning training, datasets, or text and data mining are prohibited. See [LICENSE](LICENSE) and [ai.txt](ai.txt).

@@ -1,0 +1,45 @@
+Copyright (c) 2026 Bunsli. All rights reserved.
+
+Codex is proprietary software. This repository, its releases, release
+notes, and all downloadable files (together, "the Software") are licensed,
+not sold.
+
+1. Permitted use
+   You may download the Software from this repository's official releases
+   and install and run it on your own devices for your own personal,
+   non-commercial use.
+
+2. Restrictions
+   Unless the copyright holder gives you written permission, you may not:
+   a. copy, redistribute, mirror, re-host, sell, or sublicense the Software;
+   b. modify, decompile, disassemble, or reverse engineer the Software,
+      except to the extent applicable law expressly permits it;
+   c. use the Software, or any part of it, to train, fine-tune, evaluate,
+      benchmark, or otherwise develop any artificial intelligence or machine
+      learning model or system, including large language models and code
+      generation tools;
+   d. include the Software, or any part of it, in any dataset, corpus, or
+      index intended for AI or machine learning, or use it as input for
+      retrieval-augmented generation or similar systems;
+   e. scrape, crawl, or harvest the Software or this repository by
+      automated means, except for ordinary search-engine indexing.
+
+3. Text and data mining reservation
+   The copyright holder expressly reserves all rights to text and data
+   mining of the Software, including under Article 4(3) of Directive (EU)
+   2019/790 and any equivalent law in other jurisdictions. This reservation
+   is also stated in machine-readable form in the ai.txt file in this
+   repository.
+
+4. No warranty
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL
+   THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+   WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF
+   OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+   SOFTWARE.
+
+5. Termination
+   This license ends automatically if you break any of its terms. When it
+   ends, you must stop using the Software and delete all copies of it.
