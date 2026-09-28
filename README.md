@@ -10,7 +10,7 @@ Download `Codex-<version>-win-x64.zip` from the [latest release](https://github.
 The app tells you when a new version is out (Settings → App updates). Close Codex, download the new zip and unzip it over the same folder.
 
 ### Your data
-Settings and saved builds live in `%LOCALAPPDATA%BunsliCodex`, wherever the app itself is installed. All app settings are also in one readable file there, `settings.json`: edit it while Codex is closed.
+Settings and saved builds live in `%LOCALAPPDATA%\Bunsli\Codex`, wherever the app itself is installed. All app settings are also in one readable file there, `settings.json`: edit it while Codex is closed.
 
 Game databases do not update on their own until you turn that on under Settings → Database.
 
