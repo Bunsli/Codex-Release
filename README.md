@@ -5,6 +5,6 @@ Download `Codex-<version>-win-x64.zip` from the [latest release](https://github.
 1. Unzip it into a folder you own, e.g. `DocumentsCodex` — not `Program Files`.
 2. Run `Codex.exe`. The first time, Windows may warn about an unknown publisher: **More info → Run anyway**.
 
-The app updates itself: it checks for a new version shortly after it starts, downloads it in the background, and installs it the next time you close the app.
+**Updating:** the app tells you when a new version is out (Settings → App updates). Close Codex, download the new zip and unzip it over the same folder. Your saved data lives in the `userdata` folder beside the exe and is kept.
 
 Game databases do not update on their own until you turn that on under **Settings → Database**.
